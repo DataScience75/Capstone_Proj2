@@ -1,4 +1,4 @@
-# Capstone_Proj2
+# Capstone_Proj2 - This project needs to be solved using Tensorflow (Deep Learning Techniques)
 
 #### Column Details
 <ul>
