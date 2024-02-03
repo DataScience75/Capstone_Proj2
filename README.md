@@ -1,7 +1,9 @@
 # Capstone_Proj2
 
 #### Column Details
+<br>
 age
+<br>
 sex
 chest pain type (4 values)
 resting blood pressure
